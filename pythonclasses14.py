@@ -17,3 +17,19 @@ class Class14:
 
     def method(self):
         print("class 14")
+
+
+    ### python virtual environment
+    ### python packages , pandas and numpy
+    ### type of virtual enviornment
+    ### pip freeze to check installed packages
+
+    ### how to create virtual environment
+    ### python -m venv "virtual envornment name"
+    ### virtualenvname\Scripts\activate to activate your virtual env
+    ### pip install "package"
+    ### how to check installations or packages
+    
+    ### types of virtual environemts
+    ### anaconda prompt
+    
